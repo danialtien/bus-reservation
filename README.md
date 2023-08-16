@@ -28,9 +28,9 @@ In the third session, I will conduct API Integration.
 ***File Structure may be updated in future***
 
 ## Screenshots
-![Build Progress]()
-![Build Progress]()
-![Build Progress]()
+![Build Progress](https://github.com/danialtien/bus-reservation/blob/main/Screenshot/Search_route.png)
+![Build Progress](https://github.com/danialtien/bus-reservation/blob/main/Screenshot/Search_Result.png)
+![Build Progress](https://github.com/danialtien/bus-reservation/blob/main/Screenshot/Seat_Plan_View.png)
 
 
 ### Contact me via tientung2029901@gmail.com or tiendoit20@gmail.com
